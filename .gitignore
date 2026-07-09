@@ -1,0 +1,23 @@
+# Playwright temp files
+.cover_tmp/
+._*.html
+
+# Node
+node_modules/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# HyperFrames installed skills (framework deps)
+.agents/
+agent/
+
+# Large media (add with -f if needed)
+*.mp4
+*.mov
+*.avi

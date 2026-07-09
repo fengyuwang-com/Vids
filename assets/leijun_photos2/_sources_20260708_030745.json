@@ -1,0 +1,43 @@
+{
+  "query": "雷军 大头照 正面 高清",
+  "generated_at": "2026-07-08T03:07:45+0800",
+  "engines_used": [
+    "Bing Images"
+  ],
+  "total_downloaded": 4,
+  "disclaimer": "来源搜索引擎的图片版权归属未知，请自行核实能否商用；免费摄影站的图片按对应许可证使用。",
+  "images": [
+    {
+      "filename": "05_全国人大代表、小米集团创始人雷军：建言鼓励扶持科创产业链，攻关仿生人形机器人核心_0c2b84.jpg",
+      "source_url": "https://n.sinaimg.cn/spider20230304/120/w1080h1440/20230304/55aa-b9a7f74b54587d0a4b0be0d5e20659f0.jpg",
+      "source_domain": "n.sinaimg.cn",
+      "engine": "Bing Images",
+      "license": "⚠️ 未知 — 搜索引擎来源，版权归属不明，请自行核实能否商用",
+      "downloaded_ok": true
+    },
+    {
+      "filename": "04_雷军最新发声！  极目新闻_75b32b.jpg",
+      "source_url": "http://ctdsb.clouddiffuse.xyz/b8fdd8bf-91d9-41cc-bd0e-9048ea0f8ae9",
+      "source_domain": "ctdsb.clouddiffuse.xyz",
+      "engine": "Bing Images",
+      "license": "⚠️ 未知 — 搜索引擎来源，版权归属不明，请自行核实能否商用",
+      "downloaded_ok": true
+    },
+    {
+      "filename": "01_雷军形象照 - 小红书搜索-花瓣网_2dee23.jpg",
+      "source_url": "https://gd-hbimg.huaban.com/43c592e801797e0d9a0b1d3b8c6648c8f21f4b5548be-hh0M4N_fw658webp",
+      "source_domain": "gd-hbimg.huaban.com",
+      "engine": "Bing Images",
+      "license": "⚠️ 未知 — 搜索引擎来源，版权归属不明，请自行核实能否商用",
+      "downloaded_ok": true
+    },
+    {
+      "filename": "02_雷军宣布将推出Are you OK版小米9定制保护壳-雷军,小米9 ——快科技(_946a99.jpg",
+      "source_url": "http://img1.mydrivers.com/img/20190429/d158929309724ef89416fce73a3aa487.jpg",
+      "source_domain": "img1.mydrivers.com",
+      "engine": "Bing Images",
+      "license": "⚠️ 未知 — 搜索引擎来源，版权归属不明，请自行核实能否商用",
+      "downloaded_ok": true
+    }
+  ]
+}
